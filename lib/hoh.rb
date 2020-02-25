@@ -5,6 +5,7 @@ require "pry"
 #
 # The tests will guide your construction.
 #
+# 
 # PORTION_1 = {
 #   label: "Kingdom",
 #   sub_category: {
@@ -14,7 +15,6 @@ require "pry"
 #     }
 #   }
 # }
-# 
 # PORTION_2 = {
 #   label: "Order"
 # }
